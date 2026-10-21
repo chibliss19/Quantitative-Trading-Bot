@@ -1,0 +1,5 @@
+<Solution>
+  <Folder Name="/csharp_orchestrator/">
+    <Project Path="csharp_orchestrator/TradingOrchestrator/TradingOrchestrator.csproj" />
+  </Folder>
+</Solution>
